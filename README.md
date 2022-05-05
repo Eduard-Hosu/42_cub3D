@@ -1,4 +1,4 @@
-# cub3D
+# 42_cub3D
 42 School Project
 
 [![rkaufman's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2571150)](https://github.com/JaeSeoKim/badge42)
